@@ -1,0 +1,39 @@
+_repo: Secret-ServiceBeing-the-Happenings-of-a-Night-in-Richmond-in-the-Spring-of-1865-Done-into-Boo__44659
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44659-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Gillette, William
+    aliases:
+    - Gillette, William H. (William Hooker)
+    - Gillette, William Hooker
+    - Gillette, Will
+    birthdate: 1853
+    deathdate: 1937
+    gutenberg_agent_id: '38243'
+    url: http://www.gutenberg.org/2009/agents/38243
+  - agent_name: Brady, Cyrus Townsend
+    birthdate: 1861
+    deathdate: 1920
+    gutenberg_agent_id: '5591'
+    url: http://www.gutenberg.org/2009/agents/5591
+    wikipedia: http://en.wikipedia.org/wiki/Cyrus_Townsend_Brady
+description: ''
+gutenberg_issued: '2014-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44659'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'War stories'
+- !lcc 'PS'
+- !lcsh 'Virginia -- History -- Civil War, 1861-1865 -- Fiction'
+- !lcsh 'Richmond (Va.) -- Fiction'
+title: "Secret Service\r\nBeing the Happenings of a Night in Richmond in the Spring\
+  \ of 1865"
+url: http://www.gutenberg.org/ebooks/44659
